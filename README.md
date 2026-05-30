@@ -260,5 +260,3 @@ Through this project, I learned:
 ## 👩‍💻 Author
 
 N Sai Niharika
-
-```
