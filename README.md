@@ -143,11 +143,18 @@ A simple web interface allows users to:
 The confusion matrix was used to analyze correct and incorrect classifications across all categories.
 
 ---
+## 📸 Application Screenshot
+
+The screenshot below shows the Flask web application used for news category prediction.
+
+![Application Screenshot](screenshot/implementation.png)
+
+---
 
 ## 📁 Project Structure
 
 ```text
-NewsSense/
+NewsLens/
 │
 ├── app.py
 ├── model.pkl
@@ -159,7 +166,10 @@ NewsSense/
 │
 ├── static/
 │   └── style.css
-│
+│ 
+├── screenshot/
+│   └── implementation.png
+│ 
 ├── training.ipynb
 └── requirements.txt
 └── README.md
